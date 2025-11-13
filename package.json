@@ -1,0 +1,11 @@
+{
+  "name": "ai-personal-crm",
+  "version": "1.0.0",
+  "description": "AI-powered personal CRM system",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
